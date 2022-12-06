@@ -37,4 +37,4 @@ Make sure the following packs are available in case Keil IDE is used
 Open Keil editor. Project -> Open project and select USART.uvprojx under Project/RVMDK directory.
 
 ## Hardware Setup
-[<img src="https://github.com/gwmdunda/Smart-Glass/blob/main/overview.jpg" width="50%" height="50%">]
+<img src="https://github.com/gwmdunda/Smart-Glass/blob/main/overview.jpg" width="50%" height="50%">
